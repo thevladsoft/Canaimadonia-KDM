@@ -1,0 +1,15 @@
+# This is not really a .desktop file like the rest, but it is useful to treat
+# it as such
+
+[KdmGreeterTheme]
+Greeter=canaimadonia.xml
+Name=Canaimadonia
+Name[x-test]=xxCanaimadoniaxx
+Description=Canaimadonia KDM theme
+Description[en_GB]=Canaimadonia KDM theme
+Description[es]=Tema KDM Canaimadonia
+Description[gl]=Tema KDM Canaimadonia
+
+Author=-.-
+Copyright=CreativeCommons-BY-SA | -.-
+Screenshot=screenshot.jpeg
